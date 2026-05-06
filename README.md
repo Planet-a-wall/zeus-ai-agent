@@ -1,1 +1,1 @@
-# zeus-ai-agent
+# zeus-agent
